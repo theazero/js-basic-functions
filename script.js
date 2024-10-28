@@ -18,5 +18,5 @@ function getColor(number) {
         console.log("black");
     }
 }
-
+//Example nr
 getColor(30); 
